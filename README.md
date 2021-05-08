@@ -1,2 +1,2 @@
 # Arcanoid
-Popular game writted in Java
+Popular game created to practise Java
